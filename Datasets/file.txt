@@ -1,0 +1,9 @@
+Datasets used:
+
+B100
+DIV2k
+ffhq-dataset
+Flickr2k
+Set5
+Set14
+Urban100
